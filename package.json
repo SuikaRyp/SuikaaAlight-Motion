@@ -15,10 +15,7 @@
     "format": "prettier --write ."
   },
   "overrides": {
-    "rolldown": "1.2.1",
-    "@tanstack/start-server-core": "1.170.18",
-    "@tanstack/router-core": "1.170.18",
-    "@tanstack/start-client-core": "1.170.18"
+    "rolldown": "1.2.1"
   },
   "dependencies": {
     "@hookform/resolvers": "^5.2.2",

@@ -54,7 +54,7 @@ untuk membantu pengguna yang stuck di tengah proses aktivasi.
 | `/status` | Cek status API (online/offline, versi, uptime) + info paket |
 | `/sistem` | Penjelasan cara kerja sistem & alur data |
 | `/donasi` | Donasi sukarela via QRIS + upload bukti transfer (dikirim ke Telegram) |
-| `/api/nimzz-ai` | Endpoint chat streaming untuk asisten "Nimzz AI" |
+| `/api/nimzz-ai` | Endpoint chat streaming untuk asisten "SuikaRyp AI" |
 
 **SuikaRyp AI** — chatbot bawaan (`NimzzAI.tsx`) yang fokus bantu user yang stuck (paling sering di
 step "cari magic link di email"), dilengkapi filter kata kasar, filter anti-jailbreak, dan rate

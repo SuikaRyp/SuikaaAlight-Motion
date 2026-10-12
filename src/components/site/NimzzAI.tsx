@@ -143,7 +143,7 @@ export function NimzzAI() {
           <div className="flex items-center justify-between border-b-2 border-border bg-surface px-4 py-3">
             <div className="flex items-center gap-2">
               <span className="size-2 rounded-full bg-green-500" />
-              <h4 className="text-sm font-semibold">Nimzz AI</h4>
+              <h4 className="text-sm font-semibold">SuikaRyp AI</h4>
             </div>
             <div className="flex items-center gap-1">
               <button
